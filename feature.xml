@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="Gosu_Eclipse_Plugin"
+      id="gosu.eclipse.plugin"
       label="Gosu Eclipse Plugin"
       version="1.0.0.qualifier">
 
