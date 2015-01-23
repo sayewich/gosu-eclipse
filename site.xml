@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/Gosu_Eclipse_Plugin_1.0.0.201501231352.jar" id="Gosu_Eclipse_Plugin" version="1.0.0.201501231352"/>
+   <feature url="features/Gosu_Eclipse_Plugin_1.0.0.201501231352.jar" id="Gosu_Eclipse_Plugin" version="1.0.0.201501231352">
+      <category name="category_gosu"/>
+   </feature>
    <category-def name="category_gosu" label="Gosu">
       <description>
          This is the GOSU Category
