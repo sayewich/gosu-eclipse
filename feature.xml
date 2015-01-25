@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="gosu.eclipse.plugin"
-      label="Gosu Eclipse Plugin"
+      label="gosu.eclipse.plugin"
       version="1.0.0.qualifier">
 
    <description url="http://www.example.com/description">
