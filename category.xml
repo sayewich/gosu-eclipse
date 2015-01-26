@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Gosu_Eclipse_Plugin_1.0.0.qualifier.jar" id="Gosu_Eclipse_Plugin" version="1.0.0.qualifier">
+      <category name="gosu.eclipse"/>
+   </feature>
+   <category-def name="gosu.eclipse" label="gosu.eclipse"/>
+</site>
